@@ -26,7 +26,7 @@ http://startv365.com/live/0664251418/9924187372/191865.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
+https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrQyFHDZ77_fd6yHj-JMWvoM=vuKg/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna becup
 http://startv365.com/live/0664251418/9924187372/191874.m3u8
