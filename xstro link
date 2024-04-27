@@ -8,7 +8,8 @@ refresh="3600"
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
-https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHeDGyYiIHhFenK_vl6oMSIw=37Ke/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://trtv.my.id/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOWpvSjAzWXpNMUx6SWFZYUVmWTJJMm90PT0maD1HMFpsQVFObVptUmpaUVI9
+
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria bekup
 http://startv365.com/live/0664251418/9924187372/79321.m3u8
 
