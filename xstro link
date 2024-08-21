@@ -5,13 +5,13 @@ refresh="3600"
 
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",111 RTM SUKAN
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b346000_slENG.m3u8?id=4
+#https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b346000_slENG.m3u8?id=4
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004
-#https://linears-playback.astro.com.my/vsg/41fLWT2nSjKh8q5dAbOlY1cQa8Xf1tuPWaX2iihsKm704=032I/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://tv.jnda.tech/lic/9u9k4t/l.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria bekup
 #http://startv365.com/live/0664251418/9924187372/79321.m3u8
